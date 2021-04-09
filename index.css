@@ -1,0 +1,23 @@
+body{
+    background-color:aliceblue
+}
+
+.header{
+    background-color: #696969;
+    display: flex;
+    justify-content: space-between;
+}
+
+h1{
+    color: #ED7F7F;
+    text-align: center;
+}
+
+.links{
+    margin-top:2%;
+}
+
+.a{
+    color: blue;
+}
+
